@@ -2,6 +2,13 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 color_scheme: dark
+remote_theme: jekyll/jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
 
 livereload: true
 live_reload_host: 0.0.0.0
