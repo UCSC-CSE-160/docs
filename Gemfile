@@ -5,5 +5,5 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 
 gem "just-the-docs", "0.10.1" # pinned to the current release
 
-gem 'sass-embedded', '~> 1.83.4'
+gem 'sass-embedded', '~> 1.85.1'
 gem "jekyll-remote-theme"
