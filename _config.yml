@@ -1,5 +1,5 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CSE-160 Docs
+description: The official CSE-160 wiki. RTFM.
 theme: just-the-docs
 color_scheme: dark
 remote_theme: jekyll/jekyll/minima
