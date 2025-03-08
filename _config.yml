@@ -7,6 +7,8 @@ remote_theme: jekyll/jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+logo: "rgbcube.png"
+
 minima:
   skin: dark
 
