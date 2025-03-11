@@ -1,12 +1,9 @@
 ---
-title: Setup
+title: Local Setup
 layout: default
-has_children: false
-nav_order: 3
+parent: Setup
+nav_order: 1
 ---
-
-1. TOC
-{:toc}
 
 ## Local Development
 
@@ -22,5 +19,3 @@ This should open a new tab within VS Code.
 
 # `localhost`/`127.0.0.1` ARE NOT LIVE HOSTED SUBMISSIONS. DO NOT TURN IN A `localhost` OR `127.0.0.1` LINK.
 {: .no_toc}
-
-
