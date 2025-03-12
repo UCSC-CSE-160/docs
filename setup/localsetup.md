@@ -6,13 +6,13 @@ nav_order: 1
 ---
 {: .no_toc}
 
-## Local Development
+## Local Setup
 
 TODO: expand this 
 
 To get started, install the Visual Studio Code [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) extension. 
 
-Once you have the extension installed, you can start up a webserver by hitting <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd> (or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on MacOS) to open the command pallete. Search for `Live Preview: Start Server` and select it.
+Once you have the extension installed, you can start up a webserver by hitting <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> (or <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> on MacOS) to open the command pallete. Search for `Live Preview: Start Server` and select it.
 
 ![alt text](images/startserver.png)
 

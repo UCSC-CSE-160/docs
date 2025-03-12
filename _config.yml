@@ -7,7 +7,8 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-logo: "rgbcube.png"
+logo: "assets/images/rgbcube.png"
+favicon_icon: "assets/images/favicon.ico"
 
 # minima:
 #   skin: dark
@@ -19,13 +20,13 @@ url: https://ucsc-cse-160.github.io/docs
 
 callouts:
   warning:
-    title: Warning!
+    title: Warning
     color: red
   
   tip:
-      title: Tip!
+      title: Tip
       color: yellow
 
   note:
-    title: Note!
+    title: Note
     color: blue
