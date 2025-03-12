@@ -9,8 +9,8 @@ plugins:
 
 logo: "rgbcube.png"
 
-minima:
-  skin: dark
+# minima:
+#   skin: dark
 
 livereload: true
 live_reload_host: 0.0.0.0
