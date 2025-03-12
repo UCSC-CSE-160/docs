@@ -9,5 +9,5 @@ nav_order: 3
 
 how to set up three.js
 
-{ .warning }
+{: .warning}
 you could use vite or something like that, we cant help you if you use that whatever

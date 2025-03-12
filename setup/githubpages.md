@@ -9,5 +9,5 @@ nav_order: 2
 
 how to deploy to github pages
 
-{ .warning}
+{: .warning}
 something something we recommend github pages, you can use other stuff but not supported blah blah blah
