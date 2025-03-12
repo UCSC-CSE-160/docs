@@ -7,8 +7,8 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-logo: "assets/images/rgbcube.png"
-favicon_icon: "assets/images/favicon.ico"
+logo: "/assets/images/rgbcube.png"
+favicon_icon: "/assets/images/favicon.ico"
 
 # minima:
 #   skin: dark
