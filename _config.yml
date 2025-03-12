@@ -15,5 +15,17 @@ minima:
 livereload: true
 live_reload_host: 0.0.0.0
 
-
 url: https://ucsc-cse-160.github.io/docs
+
+callouts:
+  warning:
+    title: Warning!
+    color: red
+  
+  tip:
+      title: Tip!
+      color: yellow
+
+  note:
+    title: Note!
+    color: blue
