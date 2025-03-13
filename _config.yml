@@ -10,14 +10,13 @@ plugins:
 logo: "/assets/images/rgbcube.png"
 favicon_icon: "/assets/images/favicon.ico"
 
-# minima:
-#   skin: dark
-
 livereload: true
 live_reload_host: 0.0.0.0
 
 url: https://ucsc-cse-160.github.io/docs
 
+
+# configuration for the warning, tip, and note callouts
 callouts:
   warning:
     title: Warning

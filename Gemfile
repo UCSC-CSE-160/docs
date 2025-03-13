@@ -1,9 +1,10 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+gem "jekyll", "~> 4.4.1"
 
-gem "just-the-docs", "0.10.1" # pinned to the current release
+gem "just-the-docs", "0.10.1"
 
-gem 'sass-embedded', '~> 1.85.1'
+# use older version of sass-embedded because the dumbasses who maintain jekyll dont want to update their stupid themes
+# https://github.com/jekyll/jekyll/issues/9686
+gem 'sass-embedded', '~> 1.78.0'
 gem "jekyll-remote-theme"

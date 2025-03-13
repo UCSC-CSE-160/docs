@@ -5,5 +5,4 @@ color_scheme: dark
 nav_order: 1
 ---
 
-graphic
-s
+graphics
