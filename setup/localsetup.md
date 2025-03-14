@@ -1,8 +1,8 @@
 ---
-title: Local Setup
+title: Local Development
 layout: default
 parent: Setup
-nav_order: 1
+nav_order: 3
 ---
 {: .no_toc}
 

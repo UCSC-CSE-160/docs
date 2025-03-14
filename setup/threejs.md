@@ -2,7 +2,7 @@
 title: Setting up THREE.js
 layout: default
 parent: Setup
-nav_order: 3
+nav_order: 4
 ---
 
 # TODO
