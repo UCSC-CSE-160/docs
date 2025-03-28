@@ -1,7 +1,7 @@
 ---
 title: Submission Instructions
 layout: default
-has_children: true
+parent: Labs
 nav_order: 1
 ---
 ## Overview of the Labs
