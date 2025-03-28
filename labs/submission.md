@@ -13,11 +13,13 @@ Once you create your account, you are ready to start the lab.
 1. Open the CodeSandbox template link.
 
 2. Before you work on the lab, the first thing you want to do after opening the CodeSandbox template link in the lab specification document is forking the template.
+
 ![fork the lab template](./images/fork.png)
 
 3. Follow the lab document and work on the *fork* of the template.
 
 4. Share the link to the lab clicking the share button in the top right. Change the permissions to either unlisted or public, and then click "copy".
+
 ![change permissions](./images/permissions.png)
 
 {: .warning}
