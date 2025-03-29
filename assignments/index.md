@@ -22,17 +22,17 @@ Create basic 3D geometry, starting with a cube. This will be an introduction to 
 #### Assignment 3: Blocky World
 This is the hardest assignment, so make sure to **START EARLY**. This will be an introduction to perspective cameras and textured geometry. You will be creating a simple 3D world that can be interacted with and explored.
 
-{: .warning}
+{: .tip}
 We highly recommend using optimization techniques that you learned in the labs, as this assignment will be the most likely to have low performance. Don't try to mix different rendering methods (such as the optimized rendering for some parts and normal for others). If you choose to use renderfast, make sure *all* geometry are using renderfast.
 
 #### Assignment 4: Lighting
 This can build off the animal you made in assignment 2 or the world in assignment 3. You will implement basic lighting in the form of a spotlight and point light that can change colors, using the Phong lighting model. 
 
-{: .warning}
+{: .tip}
 If you choose to use the blocky world as the base world for this assignment and if you had trouble with performance, we recommend you simplify the world a bit before starting, as it will help with performance.
 
 #### Assignment 5: Exploring a High-Level Graphics Library
 You will be moving onto using Three.js. For this assignment, you will make a world you can explore, but this time it'll be easier since it will be using Three.js. Three is also built on WebGL, but this time the library is pre-made and pre-optimized.
 
-{: .warning}
+{: .note}
 If hosting on Github Pages or if you aren't familiar with hosting websites, then use the CDN import option for Three. You can find our guide on setting it up [here](https://ucsc-cse-160.github.io/docs/setup/threejs.html).
