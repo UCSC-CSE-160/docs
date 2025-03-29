@@ -53,4 +53,8 @@ git remote add origin [the git@github.com thing you copied from github earlier]
 git push -u origin main
 ```
 
+Once you've run these commands, you should see this directory structure in your repository.
+
+![alt text](images/repo.png)
+
 Now that you've set up your repository, check out [Setting up GitHub Pages](githubpages) for instructions on how to set up your live hosted submission.
