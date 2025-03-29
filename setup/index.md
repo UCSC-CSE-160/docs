@@ -2,7 +2,7 @@
 title: Setup
 layout: default
 has_children: true
-nav_order: 3
+nav_order: 5
 ---
 
 For Assignments 0 through 4, you will be using WebGL. To get set up with that, see [Local Setup](localsetup).
