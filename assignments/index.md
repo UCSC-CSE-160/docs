@@ -35,4 +35,4 @@ If you choose to use the blocky world as the base world for this assignment and 
 You will be moving onto using Three.js. For this assignment, you will make a world you can explore, but this time it'll be easier since it will be using Three.js. Three is also built on WebGL, but this time the library is pre-made and pre-optimized.
 
 {: .warning}
-If hosting on Github Pages or if you aren't familiar with hosting websites, then use the CDN import option for Three. You can find it [here](https://threejs.org/manual/#en/installation) and scroll down to `Option 2: Import from a CDN`. You will still need node.js to run this, but it should also work on github pages right off the bat.
+If hosting on Github Pages or if you aren't familiar with hosting websites, then use the CDN import option for Three. You can find our guide on setting it up [here](https://ucsc-cse-160.github.io/docs/setup/threejs.html).
