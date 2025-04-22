@@ -6,5 +6,5 @@ gem "just-the-docs", "0.10.1"
 
 # use older version of sass-embedded because the dumbasses who maintain jekyll dont want to update their stupid themes
 # https://github.com/jekyll/jekyll/issues/9686
-gem 'sass-embedded', '~> 1.78.0'
+gem 'sass-embedded', '~> 1.87.0'
 gem "jekyll-remote-theme"
